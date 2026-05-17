@@ -136,7 +136,7 @@ A donut chart visualizes the contribution of different coal grades to overall co
 
 This analysis helps identify the most influential coal categories in the global market.
 
-![Coal Price Contribution](UPLOAD_IMAGE_LINK_HERE)
+![Coal Price Contribution](https://github.com/user-attachments/assets/af943ccf-a9fe-4469-92c7-7d7f4634d48a)
 
 # Energy Price Trends
 
