@@ -106,7 +106,7 @@ The dashboard compares stock performance between major energy companies and coal
 - Coal-linked stocks demonstrated strong growth during peak commodity demand periods.
 - Market recovery trends are visible after 2021.
 
-![Energy Stock Price Comparison](https://github.com/user-attachments/assets/a7aad98f-b539-42db-92cf-62645848d399)
+![Energy Stock Price Comparison](https://github.com/user-attachments/assets/6920c920-3421-4add-955d-53f470a6e0b0)
 
 # Oil Price Comparison
 
