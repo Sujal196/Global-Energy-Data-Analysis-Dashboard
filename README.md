@@ -50,7 +50,7 @@ The data was imported into **Power BI Desktop**, transformed using **Power Query
 ## Data Modeling
 
 - Step 7 : Created relationships between commodity pricing datasets and market indices.
-- Step 8 : Developed calculated measures using DAX for Total Coal Price, Oil Price Trends, LNG Analysis and market Comparisons.
+- Step 8 : Developed calculated measures using DAX for Total Coal Price, Oil Price Trends, LNG Analysis and market comparisons.
 - Step 9 : Created dynamic date filtering measures for interactive analysis.
 
 ## Visualization Development
@@ -106,7 +106,7 @@ The dashboard compares stock performance between major energy companies and coal
 - Coal-linked stocks demonstrated strong growth during peak commodity demand periods.
 - Market recovery trends are visible after 2021.
 
-![Energy Stock Price Comparison](https://github.com/user-attachments/assets/59ea835e-2fd1-43c5-9bec-bbb311d4c579)
+![Energy Stock Price Comparison](https://github.com/user-attachments/assets/874f398a-3b86-4261-b64b-aeadff5a0fc8)
 
 # Oil Price Comparison
 
