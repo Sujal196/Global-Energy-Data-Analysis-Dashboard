@@ -151,7 +151,7 @@ A line chart visualizes pricing trends across:
 - Coal prices showed the strongest growth trend during energy demand surges.
 - Natural gas pricing remained comparatively stable.
 
-![Energy Price Trends](UPLOAD_IMAGE_LINK_HERE)
+![Energy Price Trends](https://github.com/user-attachments/assets/39c42778-e2ce-4c87-afa5-74fbcf642043)
 
 # Gas Price Comparison
 
