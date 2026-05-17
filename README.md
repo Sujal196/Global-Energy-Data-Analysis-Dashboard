@@ -182,9 +182,9 @@ This visualization compares:
 
 ![Mining vs All Share Index](https://github.com/user-attachments/assets/331217d1-b0ad-4358-ac90-8125659ff8d7)
 
-# Oil Prices Over Time
+# Oil, Coal, Gas Prices Over Time
 
-The dashboard includes an interactive section for analyzing oil price trends across multiple years.
+The dashboard includes an interactive section for analyzing oil, coal and gas price trends across multiple years.
 
 ### Features Included:
 - Dynamic category switching
