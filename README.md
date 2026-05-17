@@ -241,7 +241,7 @@ During project development, several real-world analytical challenges were encoun
 
 To overcome these challenges:
 
-- Applied data cleaning and transformation techniques using Power Query.
+- Applied data cleaning and transformation techniques using power query.
 - Standardized pricing formats and date structures.
 - Built dynamic DAX measures for advanced calculations.
 - Designed interactive visualizations for easier market interpretation.
