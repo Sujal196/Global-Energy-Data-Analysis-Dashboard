@@ -203,7 +203,7 @@ A detailed analytical table allows users to explore commodity pricing records wi
 - Historical price exploration
 - Interactive table scrolling
 
-![Global Energy Price Table](UPLOAD_IMAGE_LINK_HERE)
+![Global Energy Price Table](https://github.com/user-attachments/assets/7343308d-965e-42e2-b607-010e261a5234)
 
 # Filters
 
