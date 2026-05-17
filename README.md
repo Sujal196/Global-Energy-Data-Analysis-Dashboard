@@ -166,7 +166,7 @@ The dashboard compares:
 - LNG prices reflected international market instability.
 - Gas markets displayed strong year-over-year fluctuations.
 
-![Gas Price Comparison](UPLOAD_IMAGE_LINK_HERE)
+![Gas Price Comparison](https://github.com/user-attachments/assets/da67b6f0-6e65-44d1-8214-a809a894fb66)
 
 # Mining vs All Share Index Analysis
 
