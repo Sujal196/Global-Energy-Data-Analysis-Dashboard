@@ -180,7 +180,7 @@ This visualization compares:
 - Market corrections impacted mining performance after 2023.
 - Strong positive correlation observed during commodity growth cycles.
 
-![Mining vs All Share Index](UPLOAD_IMAGE_LINK_HERE)
+![Mining vs All Share Index](https://github.com/user-attachments/assets/331217d1-b0ad-4358-ac90-8125659ff8d7)
 
 # Oil Prices Over Time
 
