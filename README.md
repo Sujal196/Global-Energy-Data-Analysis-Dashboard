@@ -249,7 +249,7 @@ To overcome these challenges:
 
 # Conclusion
 
-The **Global Energy Data Analysis Power BI Dashboard** provides a powerful analytical platform for monitoring global energy markets and commodity pricing trends.
+The **Global Energy Data Analysis Dashboard** provides a powerful analytical platform for monitoring global energy markets and commodity pricing trends.
 
 By integrating coal pricing, crude oil analysis, LNG trends, stock performance and mining market analytics, the dashboard enables stakeholders to:
 
