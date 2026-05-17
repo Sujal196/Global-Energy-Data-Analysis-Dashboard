@@ -121,7 +121,7 @@ A comparative analysis of major crude oil benchmarks is included:
 - Brent and Dubai crude prices maintained similar trend patterns.
 - Significant decline observed after peak market periods.
 
-![Oil Price Comparison](UPLOAD_IMAGE_LINK_HERE)
+![Oil Price Comparison](https://github.com/user-attachments/assets/341dcb59-8058-4053-8e67-6f578672533d)
 
 # Coal Price Contribution by Grade
 
