@@ -2,8 +2,6 @@
 
 ### Dashboard Link : *(To be updated after Power BI Service publication)*
 
----
-
 # Problem Statement
 
 This dashboard provides a comprehensive analytical overview of global energy market trends by monitoring critical indicators such as coal prices, crude oil prices, LNG prices, natural gas prices, mining indices and energy stock performance. The objective of this project is to transform complex energy market datasets into actionable business intelligence through interactive visualizations and KPI-driven reporting.
