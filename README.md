@@ -40,8 +40,8 @@ The data was imported into **Power BI Desktop**, transformed using **Power Query
 
 ## Data Preparation
 
-- Step 1 : Imported global energy datasets into **Power BI Desktop**.
-- Step 2 : Opened **Power Query Editor** and enabled column quality, column distribution and column profile for data validation.
+- Step 1 : Imported global energy datasets into power bi desktop.
+- Step 2 : Opened power query editor and enabled column quality, column distribution and column profile for data validation.
 - Step 3 : Enabled column profiling for the entire dataset instead of the default 1000 rows.
 - Step 4 : Validated and corrected data types for all pricing and numerical fields.
 - Step 5 : Handled missing values and removed duplicate records where applicable.
@@ -50,24 +50,24 @@ The data was imported into **Power BI Desktop**, transformed using **Power Query
 ## Data Modeling
 
 - Step 7 : Created relationships between commodity pricing datasets and market indices.
-- Step 8 : Developed calculated measures using **DAX** for Total Coal Price, Oil Price Trends, LNG Analysis and Market Comparisons.
+- Step 8 : Developed calculated measures using DAX for Total Coal Price, Oil Price Trends, LNG Analysis and Market Comparisons.
 - Step 9 : Created dynamic date filtering measures for interactive analysis.
 
 ## Visualization Development
 
 - Step 10 : Designed a professional dashboard layout with a clean energy-themed interface.
-- Step 11 : Added **date slicers** for dynamic filtering and trend analysis.
-- Step 12 : Created **KPI cards** for Coal RB 6000, Brent Oil, Natural Gas and LNG pricing.
-- Step 13 : Built **line charts** to analyze energy price trends over time.
-- Step 14 : Developed **bar charts** for oil price comparison and stock analysis.
-- Step 15 : Created **donut charts** to visualize coal price contribution by grade.
+- Step 11 : Added date slicers for dynamic filtering and trend analysis.
+- Step 12 : Created KPI cards for Coal RB 6000, Brent Oil, Natural Gas and LNG pricing.
+- Step 13 : Built line charts to analyze energy price trends over time.
+- Step 14 : Developed bar charts for oil price comparison and stock analysis.
+- Step 15 : Created donut charts to visualize coal price contribution by grade.
 - Step 16 : Designed comparative visualizations for Mining vs All Share Index analysis.
 - Step 17 : Added interactive tabs for Oil, Coal and Gas pricing analytics.
 - Step 18 : Created a detailed analytical table for commodity price exploration.
 
 ## Deployment
 
-- Step 19 : Published the report to **Power BI Service** for interactive business intelligence reporting and stakeholder access.
+- Step 19 : Published the report to power bi service for interactive business intelligence reporting and stakeholder access.
 
 # Key Performance Indicators (KPIs)
 
