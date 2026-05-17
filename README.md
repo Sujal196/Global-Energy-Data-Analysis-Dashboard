@@ -191,7 +191,7 @@ The dashboard includes an interactive section for analyzing oil, coal and gas pr
 - Comparative yearly analysis
 - Interactive visual exploration
 
-![Oil Prices Over Time](UPLOAD_IMAGE_LINK_HERE)
+![Oil Prices Over Time](https://github.com/user-attachments/assets/50df4951-b75b-4122-84e0-9392c1a3522a)
 
 # Global Energy Price Table
 
