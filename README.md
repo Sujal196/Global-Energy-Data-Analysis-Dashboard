@@ -91,7 +91,7 @@ These KPIs help analysts and stakeholders quickly assess market conditions and p
 
 ## Main Dashboard Overview
 
-![Global Energy Dashboard](UPLOAD_IMAGE_LINK_HERE)
+![Global Energy Dashboard](https://github.com/user-attachments/assets/eca4a69a-cc95-4cf5-9c8c-8de416ecedd4)
 
 # Energy Stock Price Comparison
 
