@@ -10,8 +10,6 @@ The dashboard enables stakeholders to evaluate commodity price movements, compar
 
 By integrating historical energy pricing data with stock market indicators and commodity analytics, the report supports data-driven strategic decision-making, energy market monitoring and investment analysis.
 
----
-
 # Dataset Overview
 
 The dataset used for this dashboard contains structured global energy market records with the following attributes:
@@ -38,8 +36,6 @@ The dataset used for this dashboard contains structured global energy market rec
 
 The data was imported into **Power BI Desktop**, transformed using **Power Query**, and modeled for advanced analysis and visualization.
 
----
-
 # Steps Followed
 
 ## Data Preparation
@@ -51,15 +47,11 @@ The data was imported into **Power BI Desktop**, transformed using **Power Query
 - Step 5 : Handled missing values and removed duplicate records where applicable.
 - Step 6 : Standardized date formatting for time-series analysis.
 
----
-
 ## Data Modeling
 
 - Step 7 : Created relationships between commodity pricing datasets and market indices.
 - Step 8 : Developed calculated measures using **DAX** for Total Coal Price, Oil Price Trends, LNG Analysis and Market Comparisons.
 - Step 9 : Created dynamic date filtering measures for interactive analysis.
-
----
 
 ## Visualization Development
 
@@ -73,13 +65,9 @@ The data was imported into **Power BI Desktop**, transformed using **Power Query
 - Step 17 : Added interactive tabs for Oil, Coal and Gas pricing analytics.
 - Step 18 : Created a detailed analytical table for commodity price exploration.
 
----
-
 ## Deployment
 
 - Step 19 : Published the report to **Power BI Service** for interactive business intelligence reporting and stakeholder access.
-
----
 
 # Key Performance Indicators (KPIs)
 
@@ -99,15 +87,11 @@ Represents LNG Japan Korea Marker pricing analysis.
 
 These KPIs help analysts and stakeholders quickly assess market conditions and pricing volatility.
 
----
-
 # Dashboard Snapshot
 
 ## Main Dashboard Overview
 
 ![Global Energy Dashboard](UPLOAD_IMAGE_LINK_HERE)
-
----
 
 # Energy Stock Price Comparison
 
@@ -124,8 +108,6 @@ The dashboard compares stock performance between major energy companies and coal
 
 ![Energy Stock Price Comparison](UPLOAD_IMAGE_LINK_HERE)
 
----
-
 # Oil Price Comparison
 
 A comparative analysis of major crude oil benchmarks is included:
@@ -140,8 +122,6 @@ A comparative analysis of major crude oil benchmarks is included:
 - Significant decline observed after peak market periods.
 
 ![Oil Price Comparison](UPLOAD_IMAGE_LINK_HERE)
-
----
 
 # Coal Price Contribution by Grade
 
@@ -158,8 +138,6 @@ This analysis helps identify the most influential coal categories in the global 
 
 ![Coal Price Contribution](UPLOAD_IMAGE_LINK_HERE)
 
----
-
 # Energy Price Trends
 
 A line chart visualizes pricing trends across:
@@ -174,8 +152,6 @@ A line chart visualizes pricing trends across:
 - Natural gas pricing remained comparatively stable.
 
 ![Energy Price Trends](UPLOAD_IMAGE_LINK_HERE)
-
----
 
 # Gas Price Comparison
 
@@ -192,8 +168,6 @@ The dashboard compares:
 
 ![Gas Price Comparison](UPLOAD_IMAGE_LINK_HERE)
 
----
-
 # Mining vs All Share Index Analysis
 
 This visualization compares:
@@ -208,8 +182,6 @@ This visualization compares:
 
 ![Mining vs All Share Index](UPLOAD_IMAGE_LINK_HERE)
 
----
-
 # Oil Prices Over Time
 
 The dashboard includes an interactive section for analyzing oil price trends across multiple years.
@@ -220,8 +192,6 @@ The dashboard includes an interactive section for analyzing oil price trends acr
 - Interactive visual exploration
 
 ![Oil Prices Over Time](UPLOAD_IMAGE_LINK_HERE)
-
----
 
 # Global Energy Price Table
 
@@ -235,8 +205,6 @@ A detailed analytical table allows users to explore commodity pricing records wi
 
 ![Global Energy Price Table](UPLOAD_IMAGE_LINK_HERE)
 
----
-
 # Filters
 
 The dashboard includes several interactive components for dynamic exploration.
@@ -246,8 +214,6 @@ The dashboard includes several interactive components for dynamic exploration.
 - Date Range Filter
 - Commodity Category Filters
 - Energy Type Selection Tabs
-
----
 
 # Key Business Insights
 
@@ -261,8 +227,6 @@ The dashboard reveals several important insights:
 
 These insights support energy market monitoring, commodity analysis and strategic investment decision-making.
 
----
-
 # Challenges Faced
 
 During project development, several real-world analytical challenges were encountered:
@@ -273,8 +237,6 @@ During project development, several real-world analytical challenges were encoun
 - Designing dashboards capable of displaying multiple commodity comparisons simultaneously.
 - Creating user-friendly visualizations for complex market trends.
 
----
-
 # Solutions Implemented
 
 To overcome these challenges:
@@ -284,8 +246,6 @@ To overcome these challenges:
 - Built dynamic DAX measures for advanced calculations.
 - Designed interactive visualizations for easier market interpretation.
 - Implemented slicers and filtering mechanisms for better analytical flexibility.
-
----
 
 # Conclusion
 
